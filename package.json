@@ -1,0 +1,11 @@
+{
+  "name": "setinterval-watcher",
+  "version": "0.0.1",
+  "description": "Simple logger for setInterval. Replacement for setInterval sniffer on chrome web store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "kr094@hotmail.com",
+  "license": "Unlicense"
+}
